@@ -8,6 +8,12 @@ By automating manual updates and eliminating duplicated entries, this solution i
 
 ---
 
+### Demo
+
+![Workflow Diagram](assets/n8n_workflow.png)
+
+---
+
 ## How It Works
 
 - **Watch Job Applications (Gmail Trigger):** Continuously monitors your Gmail inbox for new job application-related emails using an expanded keyword list like "applying", "submitted", "assessment", "unfortunately", "interview", "shortlisted", "rejected", and more.
